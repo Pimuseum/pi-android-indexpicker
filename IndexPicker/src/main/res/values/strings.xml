@@ -1,0 +1,4 @@
+<resources>
+    <string name="pm_index_picker_close">取消</string>
+    <string name="pm_city_picker_search_hint">搜索城市名</string>
+</resources>

@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pimuseum.indexpicker">
+
+    <application>
+        <activity android:name=".compose.PMCityPickerActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan"
+            android:theme="@style/pm_Transparent"/>
+    </application>
+
+</manifest>

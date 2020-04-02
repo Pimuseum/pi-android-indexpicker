@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pm_SideBarDefaultInitialSpan">3dp</dimen>
+    <dimen name="pm_SideBarDefaultInitialSize">11sp</dimen>
+    <dimen name="pm_SideBarDefaultWidth">40dp</dimen>
+
+    <dimen name="pm_15dp">15dp</dimen>
+    <dimen name="pm_20dp">20dp</dimen>
+</resources>

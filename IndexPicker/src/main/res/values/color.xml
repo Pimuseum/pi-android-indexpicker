@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="pm_DefaultPrimaryColor">#0088FF</color>
+    <color name="pm_DefaultGradientColor">#0099FF</color>
+    <color name="pm_DefaultBgColor">#FFFFFF</color>
+    <color name="pm_SearchBoxBgColor">#F1F1F1</color>
+    <color name="pm_TransparentColor">#00000000</color>
+    <color name="pm_DivideColor">#F0F0F0</color>
+
+    <color name="pm_SideBarDefaultTextColor">#0088FF</color>
+    <color name="pm_SideBarDefaultSelectedTextColor">#FFFFFF</color>
+
+    <color name="pm_SectionDefaultTextColor">#0088FF</color>
+    <color name="pm_ItemDefaultSelectedTextColor">#0088FF</color>
+
+</resources>

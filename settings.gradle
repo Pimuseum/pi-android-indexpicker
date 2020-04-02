@@ -1,0 +1,2 @@
+include ':app', ':IndexPicker'
+rootProject.name='Indexpicker'
